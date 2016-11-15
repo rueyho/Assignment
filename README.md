@@ -4,4 +4,6 @@ Agile assignment
 
 [Finished #133822107] well done
 
-[Finished #134300611] good
+$ git add .
+$ git commit -m "Github and Pivotal Tracker hooks implemented [[Finished #133822107]"
+$ git push
